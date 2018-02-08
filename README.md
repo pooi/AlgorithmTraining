@@ -38,15 +38,34 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi&categoryId=AV14QpAaAAwCFAYi&categoryType=CODE'>1215. [S/W 문제해결 기본] 3일차 - 회문1</a>
+          - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi&categoryId=AV14QpAaAAwCFAYi&categoryType=CODE'>1215. [S/W 문제해결 기본] 3일차 - 회문1</a>
         </li>
         <li>
-          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14Rq5aABUCFAYi&categoryId=AV14Rq5aABUCFAYi&categoryType=CODE'>1216. [S/W 문제해결 기본] 3일차 - 회문2</a>
+          - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14Rq5aABUCFAYi&categoryId=AV14Rq5aABUCFAYi&categoryType=CODE'>1216. [S/W 문제해결 기본] 3일차 - 회문2</a>
         </li>
         <li>
-          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14_DEKAJcCFAYD&categoryId=AV14_DEKAJcCFAYD&categoryType=CODE'>1234. [S/W 문제해결 기본] 10일차 - 비밀번호</a>
+          - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14_DEKAJcCFAYD&categoryId=AV14_DEKAJcCFAYD&categoryType=CODE'>1234. [S/W 문제해결 기본] 10일차 - 비밀번호</a>
         </li>
       </ul>
     </td>
   </tr>
+  
+  <tr>
+    <td>2일차</td>
+    <td>D3</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD&categoryId=AV14uWl6AF0CFAYD&categoryType=CODE'>1225. [S/W 문제해결 기본] 7일차 - 암호생성기</a>
+        </li>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14yIsqAHYCFAYD&categoryId=AV14yIsqAHYCFAYD&categoryType=CODE'>1229. [S/W 문제해결 기본] 8일차 - 암호문2</a>
+        </li>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD'>1240. [S/W 문제해결 응용] 1일차 - 단순 2진 암호코드</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+    
 </table>
