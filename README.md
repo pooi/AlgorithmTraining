@@ -51,7 +51,7 @@
   </tr>
   
   <tr>
-    <td>2일차</td>
+    <td>3일차</td>
     <td>D3</td>
     <td>
       <ul>
