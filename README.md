@@ -74,13 +74,34 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14geLqABQCFAYD&categoryId=AV14geLqABQCFAYD&categoryType=CODE'>1219. [S/W 문제해결 기본] 4일차 - 길찾기</a>
+          - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14geLqABQCFAYD&categoryId=AV14geLqABQCFAYD&categoryType=CODE'>1219. [S/W 문제해결 기본] 4일차 - 길찾기</a>
         </li>
         <li>
-          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD&categoryId=AV140YnqAIECFAYD&categoryType=CODE'>1231. [S/W 문제해결 기본] 9일차 - 중위순회</a>
+          - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD&categoryId=AV140YnqAIECFAYD&categoryType=CODE'>1231. [S/W 문제해결 기본] 9일차 - 중위순회</a>
         </li>
         <li>
-          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD&categoryId=AV15QRX6APsCFAYD&categoryType=CODE'>1249. [S/W 문제해결 응용] 4일차 - 보급로</a>
+          - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD&categoryId=AV15QRX6APsCFAYD&categoryType=CODE'>1249. [S/W 문제해결 응용] 4일차 - 보급로</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>5일차</td>
+    <td>D4</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD&categoryId=AV141176AIwCFAYD&categoryType=CODE'>1233. [S/W 문제해결 기본] 9일차 - 사칙연산 유효성 검사</a>
+        </li>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD&categoryId=AV14eWb6AAkCFAYD&categoryType=CODE'>1218. [S/W 문제해결 기본] 4일차 - 괄호 짝짓기</a>
+        </li>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD&categoryId=AV14wL9KAGkCFAYD&categoryType=CODE'>1227. [S/W 문제해결 기본] 7일차 - 미로2</a>
+        </li>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN&categoryId=AV18LoAqItcCFAZN&categoryType=CODE'>1258. [S/W 문제해결 응용] 7일차 - 행렬찾기</a>
         </li>
       </ul>
     </td>
