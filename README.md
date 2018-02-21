@@ -119,7 +119,22 @@
           - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18GHd6IskCFAZN&categoryId=AV18GHd6IskCFAZN&categoryType=CODE'>1256. [S/W 문제해결 응용] 6일차 - K번째 접미어</a>
         </li>
         <li>
-          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15JEKKAM8CFAYD&categoryId=AV15JEKKAM8CFAYD&categoryType=CODE'>1242. [S/W 문제해결 응용] 1일차 - 암호코드 스캔</a>
+          - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15JEKKAM8CFAYD&categoryId=AV15JEKKAM8CFAYD&categoryType=CODE'>1242. [S/W 문제해결 응용] 1일차 - 암호코드 스캔</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>7일차</td>
+    <td>D5</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD&categoryId=AV15PTkqAPYCFAYD&categoryType=CODE'>1248. [S/W 문제해결 응용] 3일차 - 공통조상</a>
+        </li>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN&categoryId=AV18NaZqIt8CFAZN&categoryType=CODE'>1259. [S/W 문제해결 응용] 7일차 - 금속막대</a>
         </li>
       </ul>
     </td>
