@@ -161,7 +161,19 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15MeBKAOgCFAYD&categoryId=AV15MeBKAOgCFAYD&categoryType=CODE'>1245. [S/W 문제해결 응용] 2일차 - 균형점</a>
+          - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15MeBKAOgCFAYD&categoryId=AV15MeBKAOgCFAYD&categoryType=CODE'>1245. [S/W 문제해결 응용] 2일차 - 균형점</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>10일차</td>
+    <td>D6</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18Q_MqIvUCFAZN&categoryId=AV18Q_MqIvUCFAZN&categoryType=CODE'>1264. [S/W 문제해결 응용] 8일차 - 이미지 유사도 검사</a>
         </li>
       </ul>
     </td>
