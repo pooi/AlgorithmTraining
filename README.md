@@ -173,10 +173,25 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18Q_MqIvUCFAZN&categoryId=AV18Q_MqIvUCFAZN&categoryType=CODE'>1264. [S/W 문제해결 응용] 8일차 - 이미지 유사도 검사</a>
+          - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18Q_MqIvUCFAZN&categoryId=AV18Q_MqIvUCFAZN&categoryType=CODE'>1264. [S/W 문제해결 응용] 8일차 - 이미지 유사도 검사</a>
         </li>
       </ul>
     </td>
   </tr>
+  
+  <tr>
+      <td>11일차</td>
+      <td>D4</td>
+      <td>
+        <ul>
+          <li>
+            - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14mbSaAEwCFAYD&categoryId=AV14mbSaAEwCFAYD&categoryType=CODE'>1222. [S/W 문제해결 기본] 6일차 - 계산기1</a>
+          </li>
+          <li>
+            - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD&categoryId=AV14nnAaAFACFAYD&categoryType=CODE'>1223. [S/W 문제해결 기본] 6일차 - 계산기2</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
     
 </table>
