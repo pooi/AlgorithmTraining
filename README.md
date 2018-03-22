@@ -185,13 +185,31 @@
       <td>
         <ul>
           <li>
-            - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14mbSaAEwCFAYD&categoryId=AV14mbSaAEwCFAYD&categoryType=CODE'>1222. [S/W 문제해결 기본] 6일차 - 계산기1</a>
+            - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14mbSaAEwCFAYD&categoryId=AV14mbSaAEwCFAYD&categoryType=CODE'>1222. [S/W 문제해결 기본] 6일차 - 계산기1</a>
           </li>
           <li>
-            - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD&categoryId=AV14nnAaAFACFAYD&categoryType=CODE'>1223. [S/W 문제해결 기본] 6일차 - 계산기2</a>
+            - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD&categoryId=AV14nnAaAFACFAYD&categoryType=CODE'>1223. [S/W 문제해결 기본] 6일차 - 계산기2</a>
+          </li>
+          <li>
+            - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14tDX6AFgCFAYD&categoryId=AV14tDX6AFgCFAYD&categoryType=CODE'>1224. [S/W 문제해결 기본] 6일차 - 계산기3</a>
           </li>
         </ul>
       </td>
     </tr>
+    
+  <tr>
+    <td>12일차</td>
+    <td>D4</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141J8KAIcCFAYD&categoryId=AV141J8KAIcCFAYD&categoryType=CODE'>1232. [S/W 문제해결 기본] 9일차 - 사칙연산</a>
+        </li>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD&categoryId=AV14vXUqAGMCFAYD&categoryType=CODE'>1226. [S/W 문제해결 기본] 7일차 - 미로1</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
     
 </table>
