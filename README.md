@@ -233,7 +233,19 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD&categoryId=AV15StKqAQkCFAYD&categoryType=CODE'>1251. [S/W 문제해결 응용] 4일차 - 하나로</a>
+          - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD&categoryId=AV15StKqAQkCFAYD&categoryType=CODE'>1251. [S/W 문제해결 응용] 4일차 - 하나로</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>15일차</td>
+    <td>D6</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18OR16IuUCFAZN&categoryId=AV18OR16IuUCFAZN&categoryType=CODE'>1260. [S/W 문제해결 응용] 7일차 - 화학물질2</a>
         </li>
       </ul>
     </td>
