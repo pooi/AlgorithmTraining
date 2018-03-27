@@ -245,7 +245,19 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18OR16IuUCFAZN&categoryId=AV18OR16IuUCFAZN&categoryType=CODE'>1260. [S/W 문제해결 응용] 7일차 - 화학물질2</a>
+          - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18OR16IuUCFAZN&categoryId=AV18OR16IuUCFAZN&categoryType=CODE'>1260. [S/W 문제해결 응용] 7일차 - 화학물질2</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>16일차</td>
+    <td>D6</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18Sx36IwACFAZN&categoryId=AV18Sx36IwACFAZN&categoryType=CODE'>1266. [S/W 문제해결 응용] 9일차 - 소수 완제품 확률</a>
         </li>
       </ul>
     </td>
