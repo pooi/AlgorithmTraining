@@ -257,7 +257,19 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18Sx36IwACFAZN&categoryId=AV18Sx36IwACFAZN&categoryType=CODE'>1266. [S/W 문제해결 응용] 9일차 - 소수 완제품 확률</a>
+          - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18KWf6ItECFAZN&categoryId=AV18KWf6ItECFAZN&categoryType=CODE'>1257. [S/W 문제해결 응용] 6일차 - K번째 문자열</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>17일차</td>
+    <td>D6</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18TrIqIwUCFAZN&categoryId=AV18TrIqIwUCFAZN&categoryType=CODE'>1267. [S/W 문제해결 응용] 10일차 - 작업순서</a>
         </li>
       </ul>
     </td>
