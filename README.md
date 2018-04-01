@@ -293,7 +293,19 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Tx9aARECFAYD&categoryId=AV15Tx9aARECFAYD&categoryType=CODE'>1252. [S/W 문제해결 응용] 5일차 - 단순도금비용</a>
+          - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18U3f6Iw0CFAZN'>1268. [S/W 문제해결 응용] 10일차 - 최종평가</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>20일차</td>
+    <td>D3</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] 2일차, 3일차 복습
         </li>
       </ul>
     </td>
