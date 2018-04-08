@@ -349,13 +349,28 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/14888'>연산자 끼워넣기</a>
+          - [x] <a href='https://www.acmicpc.net/problem/14888'>연산자 끼워넣기</a>
         </li>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/14890'>경사로</a>
+          - [x] <a href='https://www.acmicpc.net/problem/14890'>경사로</a>
         </li>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/14891'>톱니바퀴</a>
+          - [x] <a href='https://www.acmicpc.net/problem/14891'>톱니바퀴</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>24일차</td>
+    <td>백준</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.acmicpc.net/problem/14501'>퇴사</a>
+        </li>
+        <li>
+          - [ ] <a href='https://www.acmicpc.net/problem/14499'>주사위 굴리기</a>
         </li>
       </ul>
     </td>
