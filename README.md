@@ -367,10 +367,25 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/14501'>퇴사</a>
+          - [x] <a href='https://www.acmicpc.net/problem/14501'>퇴사</a>
         </li>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/14499'>주사위 굴리기</a>
+          - [x] <a href='https://www.acmicpc.net/problem/14499'>주사위 굴리기</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>25일차</td>
+    <td>백준</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.acmicpc.net/problem/14500'>테트로미노</a>
+        </li>
+        <li>
+          - [ ] <a href='https://www.acmicpc.net/problem/13458'>시험 감독</a>
         </li>
       </ul>
     </td>
