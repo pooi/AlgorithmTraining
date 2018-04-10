@@ -382,10 +382,28 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/14500'>테트로미노</a>
+          - [x] <a href='https://www.acmicpc.net/problem/14500'>테트로미노</a>
         </li>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/13458'>시험 감독</a>
+          - [x] <a href='https://www.acmicpc.net/problem/13458'>시험 감독</a>
+        </li>
+        <li>
+          - [x] <a href='https://www.acmicpc.net/problem/13460'>구슬 탈출 2</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>26일차</td>
+    <td>백준</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.acmicpc.net/problem/12100'>2048 (Easy)</a>
+        </li>
+        <li>
+          - [ ] <a href='https://www.acmicpc.net/problem/3190'>뱀</a>
         </li>
       </ul>
     </td>
