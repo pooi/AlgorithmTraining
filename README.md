@@ -400,10 +400,22 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/12100'>2048 (Easy)</a>
+          - [x] <a href='https://www.acmicpc.net/problem/12100'>2048 (Easy)</a>
         </li>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/3190'>뱀</a>
+          - [x] <a href='https://www.acmicpc.net/problem/3190'>뱀</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>27일차</td>
+    <td>백준</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.acmicpc.net/problem/2533'>사회망 서비스(SNS)</a>
         </li>
       </ul>
     </td>
