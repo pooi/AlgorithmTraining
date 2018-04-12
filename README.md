@@ -415,7 +415,25 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/2533'>사회망 서비스(SNS)</a>
+          - [x] <a href='https://www.acmicpc.net/problem/2533'>사회망 서비스(SNS)</a>
+        </li>
+        <li>
+          - [x] <a href='https://www.acmicpc.net/problem/2698'>인접한 비트의 개수</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>28일차</td>
+    <td>백준</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.acmicpc.net/problem/1012'>유기농 배추</a>
+        </li>
+        <li>
+          - [ ] <a href='https://www.acmicpc.net/problem/2579'>계단 오르기</a>
         </li>
       </ul>
     </td>
