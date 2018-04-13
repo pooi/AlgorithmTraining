@@ -430,10 +430,34 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/1012'>유기농 배추</a>
+          - [x] <a href='https://www.acmicpc.net/problem/1012'>유기농 배추</a>
         </li>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/2579'>계단 오르기</a>
+          - [x] <a href='https://www.acmicpc.net/problem/2579'>계단 오르기</a>
+        </li>
+        <li>
+          - [x] <a href='https://www.acmicpc.net/problem/2668'>숫자고르기</a>
+        </li>
+        <li>
+          - [x] <a href='https://www.acmicpc.net/problem/6603'>로또</a>
+        </li>
+        <li>
+          - [x] <a href='https://www.acmicpc.net/problem/9465'>스티커</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>29일차</td>
+    <td>백준</td>
+    <td>
+      <ul>
+        <li>
+          - [ ] <a href='https://www.acmicpc.net/problem/9205'>맥주 마시면서 걸어가기</a>
+        </li>
+        <li>
+          - [ ] <a href='https://www.acmicpc.net/problem/2156'>포도주 시식</a>
         </li>
       </ul>
     </td>
