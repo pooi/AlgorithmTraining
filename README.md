@@ -454,10 +454,16 @@
     <td>
       <ul>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/9205'>맥주 마시면서 걸어가기</a>
+          - [x] <a href='https://www.acmicpc.net/problem/9205'>맥주 마시면서 걸어가기</a>
         </li>
         <li>
-          - [ ] <a href='https://www.acmicpc.net/problem/2156'>포도주 시식</a>
+          - [x] <a href='https://www.acmicpc.net/problem/2156'>포도주 시식</a>
+        </li>
+        <li>
+          - [x] <a href='https://www.acmicpc.net/problem/9461'>파도반 수열</a>
+        </li>
+        <li>
+          - [x] <a href='https://www.acmicpc.net/problem/11057'>오르막 수</a>
         </li>
       </ul>
     </td>
