@@ -477,4 +477,6 @@
 ## More
 <ul>
     <li>D4 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw'>1486. 장훈이의 높은 선반</a></li>
+    <li>D3 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE'>1220. [S/W 문제해결 기본] 5일차 - Magnetic</a></li>
+    
 </ul>
