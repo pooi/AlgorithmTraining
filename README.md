@@ -480,5 +480,6 @@
     <li>D3 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE'>1220. [S/W 문제해결 기본] 5일차 - Magnetic</a></li>
     <li>D4 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWDTHsZ6r0EDFAWD&categoryId=AWDTHsZ6r0EDFAWD&categoryType=CODE'>3347. 올림픽 종목 투표</a></li>
     <li>D4 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc&categoryId=AV5LtJYKDzsDFAXc&categoryType=CODE'>1861. 정사각형 방</a></li>
+    <li>D4 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW&categoryId=AWLL7kaaAPsDFAUW&categoryType=CODE'>4261. 빠른 휴대전화 키패드</a></li>
     
 </ul>
