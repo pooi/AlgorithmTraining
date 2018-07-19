@@ -482,5 +482,6 @@
     <li>D4 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc&categoryId=AV5LtJYKDzsDFAXc&categoryType=CODE'>1861. 정사각형 방</a></li>
     <li>D4 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLL7kaaAPsDFAUW&categoryId=AWLL7kaaAPsDFAUW&categoryType=CODE'>4261. 빠른 휴대전화 키패드</a></li>
     <li>D4 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIseXoKEUcDFAWN&categoryId=AWIseXoKEUcDFAWN&categoryType=CODE'>4050. 재관이의 대량 할인</a></li>
+    <li>D4 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_65wkqsb4DFAWS&categoryId=AV_65wkqsb4DFAWS&categoryType=CODE'>3143. 가장 빠른 문자열 타이핑</a></li>
     
 </ul>
