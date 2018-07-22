@@ -485,5 +485,6 @@
     <li>D4 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_65wkqsb4DFAWS&categoryId=AV_65wkqsb4DFAWS&categoryType=CODE'>3143. 가장 빠른 문자열 타이핑</a></li>
     <li>D3 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14dUIaAAUCFAYD&categoryId=AV14dUIaAAUCFAYD&categoryType=CODE'>1217. [S/W 문제해결 기본] 4일차 - 거듭 제곱</a></li>
     <li>D3 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWE_ZXcqAAMDFAV2&categoryId=AWE_ZXcqAAMDFAV2&categoryType=CODE'>3431. 준환이의 운동관리</a></li>
+    <li>D3 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD&categoryId=AV14w-rKAHACFAYD&categoryType=CODE'>1228. [S/W 문제해결 기본] 8일차 - 암호문1</a></li>
     
 </ul>
