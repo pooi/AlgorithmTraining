@@ -487,5 +487,6 @@
     <li>D3 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWE_ZXcqAAMDFAV2&categoryId=AWE_ZXcqAAMDFAV2&categoryType=CODE'>3431. 준환이의 운동관리</a></li>
     <li>D3 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD&categoryId=AV14w-rKAHACFAYD&categoryType=CODE'>1228. [S/W 문제해결 기본] 8일차 - 암호문1</a></li>
     <li>D3 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14zIwqAHwCFAYD&categoryId=AV14zIwqAHwCFAYD&categoryType=CODE'>1230. [S/W 문제해결 기본] 8일차 - 암호문3</a></li>
+    <li>D3 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14P0c6AAUCFAYi&categoryId=AV14P0c6AAUCFAYi&categoryType=CODE'>1213. [S/W 문제해결 기본] 3일차 - String</a></li>
     
 </ul>
