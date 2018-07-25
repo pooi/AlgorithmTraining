@@ -488,5 +488,6 @@
     <li>D3 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD&categoryId=AV14w-rKAHACFAYD&categoryType=CODE'>1228. [S/W 문제해결 기본] 8일차 - 암호문1</a></li>
     <li>D3 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14zIwqAHwCFAYD&categoryId=AV14zIwqAHwCFAYD&categoryType=CODE'>1230. [S/W 문제해결 기본] 8일차 - 암호문3</a></li>
     <li>D3 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14P0c6AAUCFAYi&categoryId=AV14P0c6AAUCFAYi&categoryType=CODE'>1213. [S/W 문제해결 기본] 3일차 - String</a></li>
+    <li>D3 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcD_66pUEDFAV8&categoryId=AWNcD_66pUEDFAV8&categoryType=CODE'>4406. 모음이 보이지 않는 사람</a></li>
     
 </ul>
