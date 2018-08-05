@@ -493,5 +493,6 @@
     <li>D4 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQl9TIK8qoDFAXj&categoryId=AWQl9TIK8qoDFAXj&categoryType=CODE'>4613. 러시아 국기 같은 깃발</a></li>
     <li>BOJ - <a href='https://www.acmicpc.net/problem/2583'>영역 구하기</a></li>
     <li>BOJ - <a href='https://www.acmicpc.net/problem/1032'>명령 프롬프트</a></li>
+    <li>BOJ - <a href='https://www.acmicpc.net/problem/1085’>직사각형에서 탈출</a></li>
     
 </ul>
