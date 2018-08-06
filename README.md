@@ -494,5 +494,6 @@
     <li>BOJ - <a href='https://www.acmicpc.net/problem/2583'>영역 구하기</a></li>
     <li>BOJ - <a href='https://www.acmicpc.net/problem/1032'>명령 프롬프트</a></li>
     <li>BOJ - <a href='https://www.acmicpc.net/problem/1085’>직사각형에서 탈출</a></li>
+    <li>BOJ - <a href='https://www.acmicpc.net/problem/1074’>Z</a></li>
     
 </ul>
