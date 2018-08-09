@@ -496,5 +496,6 @@
     <li>BOJ - <a href='https://www.acmicpc.net/problem/1085’>직사각형에서 탈출</a></li>
     <li>BOJ - <a href='https://www.acmicpc.net/problem/1074’>Z</a></li>
     <li>P1209 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh&categoryId=AV13_BWKACUCFAYh&categoryType=CODE’>1209. [S/W 문제해결 기본] 2일차 - Sum</a></li>
+    <li>P1206 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE’>1206. [S/W 문제해결 기본] 1일차 - View</a></li>
     
 </ul>
