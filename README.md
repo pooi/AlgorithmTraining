@@ -6,6 +6,8 @@
 <a href='https://www.swexpertacademy.com/main/main.do'>https://www.swexpertacademy.com</a>
 <br>
 <a href='https://www.acmicpc.net'>https://www.acmicpc.net</a>
+<br>
+<a href='https://programmers.co.kr/learn/challenges'>https://programmers.co.kr/learn/challenges</a>
 
 <br>
 
@@ -471,6 +473,12 @@
     
 </table>
 
+<br>
+
+## Kakao
+<ul>
+    <li><a href='https://programmers.co.kr/learn/courses/30/lessons/17676'>[1차] 추석 트래픽</a></li>
+</ul>
 
 <br>
 
@@ -497,5 +505,7 @@
     <li>BOJ - <a href='https://www.acmicpc.net/problem/1074’>Z</a></li>
     <li>P1209 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh&categoryId=AV13_BWKACUCFAYh&categoryType=CODE’>1209. [S/W 문제해결 기본] 2일차 - Sum</a></li>
     <li>P1206 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE’>1206. [S/W 문제해결 기본] 1일차 - View</a></li>
+    <li>P17681 - <a href='https://programmers.co.kr/learn/courses/30/lessons/17681'>[1차] 비밀지도</a></li>
+    <li>P17682 - <a href='https://programmers.co.kr/learn/courses/30/lessons/17682'>[1차] 다트 게임</a></li>
     
 </ul>
