@@ -507,5 +507,8 @@
     <li>P1206 - <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE’>1206. [S/W 문제해결 기본] 1일차 - View</a></li>
     <li>P17681 - <a href='https://programmers.co.kr/learn/courses/30/lessons/17681'>[1차] 비밀지도</a></li>
     <li>P17682 - <a href='https://programmers.co.kr/learn/courses/30/lessons/17682'>[1차] 다트 게임</a></li>
+    <li>P17677 - <a href='https://programmers.co.kr/learn/courses/30/lessons/17682'>[1차] 뉴스 클러스터링</a></li>
+    <li>P17679 - <a href='https://programmers.co.kr/learn/courses/30/lessons/17682'>[1차] 프렌즈4블록</a></li>
+    <li>P17680 - <a href='https://programmers.co.kr/learn/courses/30/lessons/17682'>[1차] 캐시</a></li>
     
 </ul>
