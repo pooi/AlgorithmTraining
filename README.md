@@ -510,5 +510,10 @@
     <li>P17677 - <a href='https://programmers.co.kr/learn/courses/30/lessons/17682'>[1차] 뉴스 클러스터링</a></li>
     <li>P17679 - <a href='https://programmers.co.kr/learn/courses/30/lessons/17682'>[1차] 프렌즈4블록</a></li>
     <li>P17680 - <a href='https://programmers.co.kr/learn/courses/30/lessons/17682'>[1차] 캐시</a></li>
+    <li>P19756 - </li>
+    <li>P19757 - </li>
+    <li>P19758 - </li>
+    <li>P19759 - </li>
+    <li>P19760 - </li>
     
 </ul>
