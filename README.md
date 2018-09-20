@@ -11,6 +11,42 @@
 
 <br>
 
+
+## Curriculum 2
+<table>
+    <tr>
+        <td width=20%>일차</td>
+        <td width=20%>난이도</td>
+        <td width=60%>문제</td>
+    </tr>
+    <tr>
+        <td>1일차</td>
+        <td>D4</td>
+        <td>
+          <ul>
+            <li>
+              - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw&categoryId=AV2b7Yf6ABcBBASw&categoryType=CODE'>1486. 장훈이의 높은 선반</a>
+            </li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>2일차</td>
+        <td>D4</td>
+        <td>
+          <ul>
+            <li>
+              - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBnFuhqxE8DFAWr&categoryId=AWBnFuhqxE8DFAWr&categoryType=CODE&&&'>3316. 동아리실 관리하기</a>
+            </li>
+            <li>
+              - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD&categoryId=AV14eWb6AAkCFAYD&categoryType=CODE'>1218. [S/W 문제해결 기본] 4일차 - 괄호 짝짓기</a>
+            </li>
+          </ul>
+        </td>
+    </tr>
+</table>
+
+
 ## Curriculum
 <table>
   <tr>
