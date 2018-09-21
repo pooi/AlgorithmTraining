@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D18A58C1215246E300EFB2CE /* P1218.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D18A58C0215246E300EFB2CE /* P1218.cpp */; };
+		D12486672154B5EF0099DF00 /* P1949.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D12486662154B5EF0099DF00 /* P1949.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		D12486662154B5EF0099DF00 /* P1949.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = P1949.cpp; sourceTree = "<group>"; };
 		D14A24222150DB4600205CF1 /* AlgorithmTraining */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmTraining; sourceTree = BUILT_PRODUCTS_DIR; };
 		D14A24252150DB4600205CF1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		D14A24302150DC4A00205CF1 /* P1486.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = P1486.cpp; sourceTree = "<group>"; };
@@ -40,6 +41,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D12486652154B5D50099DF00 /* etc */ = {
+			isa = PBXGroup;
+			children = (
+				D12486662154B5EF0099DF00 /* P1949.cpp */,
+			);
+			path = etc;
+			sourceTree = "<group>";
+		};
 		D14A24192150DB4500205CF1 = {
 			isa = PBXGroup;
 			children = (
@@ -59,6 +68,7 @@
 		D14A24242150DB4600205CF1 /* AlgorithmTraining */ = {
 			isa = PBXGroup;
 			children = (
+				D12486652154B5D50099DF00 /* etc */,
 				D14A242C2150DC0D00205CF1 /* d4 */,
 				D14A24252150DB4600205CF1 /* main.cpp */,
 			);
@@ -130,7 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D18A58C1215246E300EFB2CE /* P1218.cpp in Sources */,
+				D12486672154B5EF0099DF00 /* P1949.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -36,10 +36,21 @@
         <td>
           <ul>
             <li>
-              - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBnFuhqxE8DFAWr&categoryId=AWBnFuhqxE8DFAWr&categoryType=CODE&&&'>3316. 동아리실 관리하기</a>
+              - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBnFuhqxE8DFAWr&categoryId=AWBnFuhqxE8DFAWr&categoryType=CODE'>3316. 동아리실 관리하기</a>
             </li>
             <li>
               - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD&categoryId=AV14eWb6AAkCFAYD&categoryType=CODE'>1218. [S/W 문제해결 기본] 4일차 - 괄호 짝짓기</a>
+            </li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>3일차</td>
+        <td>모의 SW 역량테스트</td>
+        <td>
+          <ul>
+            <li>
+              - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq'>1949. [모의 SW 역량테스트] 등산로 조성</a>
             </li>
           </ul>
         </td>
