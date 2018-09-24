@@ -55,6 +55,17 @@
           </ul>
         </td>
     </tr>
+    <tr>
+        <td>4일차</td>
+        <td>모의 SW 역량테스트</td>
+        <td>
+          <ul>
+            <li>
+              - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq'>1953. [모의 SW 역량테스트] 탈주범 검거</a>
+            </li>
+          </ul>
+        </td>
+    </tr>
 </table>
 
 
