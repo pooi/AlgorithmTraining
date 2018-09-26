@@ -61,7 +61,18 @@
         <td>
           <ul>
             <li>
-              - [ ] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq'>1953. [모의 SW 역량테스트] 탈주범 검거</a>
+              - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq'>1953. [모의 SW 역량테스트] 탈주범 검거</a>
+            </li>
+          </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>5일차</td>
+        <td>모의 SW 역량테스트</td>
+        <td>
+          <ul>
+            <li>
+              - [x] <a href='https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu'>2105. [모의 SW 역량테스트] 디저트 카페</a>
             </li>
           </ul>
         </td>
